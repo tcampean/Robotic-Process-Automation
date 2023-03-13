@@ -1,0 +1,40 @@
+McDonald's
+
+Bill To:
+
+Andrei Popescu
+
+Item
+
+Food Service Fee
+
+INVOICE
+
+# 23453
+
+Date: Jan 17, 2023 Due Date: Jan 28, 2023
+
+PO Number:
+
+400243
+
+Balance Due: $1,430.00
+
+Quantity
+
+1 1
+
+Rate Amount
+
+$1,000.00 $1,000.00 $330.00 $330.00
+
+1
+
+$0.00
+
+$0.00
+
+Subtotal:   $1,330.00
+Tax (0%):   $0.00    
+Shipping:   $100.00  
+Total:      $1,430.00
